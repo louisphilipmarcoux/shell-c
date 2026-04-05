@@ -1,5 +1,10 @@
 # shell-c
 
+[![CI](https://github.com/louisphilipmarcoux/shell-c/actions/workflows/ci.yml/badge.svg)](https://github.com/louisphilipmarcoux/shell-c/actions/workflows/ci.yml)
+[![C23](https://img.shields.io/badge/standard-C23-blue.svg)](https://en.cppreference.com/w/c/23)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Tests](https://img.shields.io/badge/tests-50%20passing-brightgreen.svg)](tests/run_tests.sh)
+
 A feature-rich POSIX-like shell written in C23, featuring variable expansion, job control, and more.
 
 ## Features
